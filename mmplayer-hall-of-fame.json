@@ -5,22 +5,22 @@
       "name": "peper",
       "date": "2026-08",
       "badge": "VIP Legend",
-      "quote": "MMPlayer Creator"
+      "quote": ""
     },
     {
       "id": "vip-002",
-      "name": "Carlos M.",
-      "date": "2026-08",
-      "badge": "VIP Legend",
-      "quote": "Best offline music player!"
-    },
-    {
-      "id": "vip-003",
       "name": "David2357",
       "date": "2026-09",
       "badge": "VIP Legend",
       "quote": ""
-    }
+    },
+    {
+      "id": "vip-003",
+      "name": "Killerdroid",
+      "date": "2026-09",
+      "badge": "VIP Legend",
+      "quote": ""
+    },
   ],
   "supporters": [
     {
