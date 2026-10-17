@@ -1,4 +1,8 @@
 {
   "latestVersion": "2.4.0",
   "releaseNotes": "Sistema de notificaciones y QoL"
+},
+{
+  "latestVersion": "2.5.0",
+  "releaseNotes": "Bug Fixes, nuevo LocalCast, valoraciones de albumes"
 }
