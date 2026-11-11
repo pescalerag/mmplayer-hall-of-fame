@@ -5,4 +5,8 @@
 {
   "latestVersion": "2.5.0",
   "releaseNotes": "Bug Fixes, nuevo LocalCast, valoraciones de albumes"
+},
+{
+  "latestVersion": "3.0.0",
+  "releaseNotes": "Beyond the Player"
 }
